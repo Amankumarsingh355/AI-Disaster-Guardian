@@ -41,7 +41,3 @@ Dart SDK
 A Google Cloud Project with the Gemini API enabled
 A Firebase Project
 
-Installation
-
-1. Clone the repository:
-   ```bash
