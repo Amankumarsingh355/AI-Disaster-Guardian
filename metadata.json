@@ -1,0 +1,8 @@
+{
+  "name": "AI Disaster Guardian",
+  "description": "Real-time AI disaster assessment tool using Gemini 1.5 Flash to analyze location-based risks like wildfires and floods.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
